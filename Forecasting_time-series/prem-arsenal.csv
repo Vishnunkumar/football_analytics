@@ -1,0 +1,115 @@
+date_col,home,away,score,points,home-adv,referee
+2018-08-12,arsenal,manchester city,0–2,0,1,Michael Oliver
+2018-08-18,chelsea,arsenal,3–2,0,0,Martin Atkinson
+2018-08-25,arsenal,west ham united,3–1,3,1,Graham Scott
+2018-09-02,cardiff city,arsenal,2–3,3,0,Anthony Taylor
+2018-09-15,newcastle united,arsenal,1–2,3,0,Lee Probert
+2018-09-23,arsenal,everton,2–0,3,1,Jonathan Moss
+2018-09-29,arsenal,watford,2–0,3,1,Anthony Taylor
+2018-10-07,fulham,arsenal,1–5,3,0,Paul Tierney
+2018-10-22,arsenal,leicester city,3–1,3,1,Chris Kavanagh
+2018-10-28,crystal palace,arsenal,2–2,1,0,Martin Atkinson
+2018-11-03,arsenal,liverpool,1–1,1,1,Andre Marriner
+2018-11-11,arsenal,wolverhampton wanderers,1–1,1,1,Stuart Attwell
+2018-11-25,bournemouth,arsenal,1–2,3,0,Craig Pawson
+2018-12-02,arsenal,tottenham hotspur,4–2,3,1,Mike Dean
+2018-12-05,manchester united,arsenal,2–2,1,0,Andre Marriner
+2018-12-08,arsenal,huddersfield town,1–0,3,1,Paul Tierney
+2018-12-16,southampton,arsenal,3–2,0,0,Chris Kavanagh
+2018-12-22,arsenal,burnley,3–1,3,1,Kevin Friend
+2018-12-26,brighton hove albion,arsenal,1–1,1,0,Anthony Taylor
+2018-12-29,liverpool,arsenal,5–1,0,0,Michael Oliver
+2019-01-01,arsenal,fulham,4–1,3,1,Graham Scott
+2019-01-12,west ham united,arsenal,1–0,0,0,Jonathan Moss
+2019-01-19,arsenal,chelsea,2–0,3,1,Anthony Taylor
+2019-01-29,arsenal,cardiff city,2–1,3,1,Mike Dean
+2019-02-03,manchester city,arsenal,3–1,0,0,Martin Atkinson
+2019-02-09,huddersfield town,arsenal,1–2,3,0,Jonathan Moss
+2019-02-24,arsenal,southampton,2–0,3,1,Graham Scott
+2019-02-27,arsenal,bournemouth,5–1,3,1,Chris Kavanagh
+2019-03-02,tottenham hotspur,arsenal,1–1,1,0,Anthony Taylor
+2019-03-10,arsenal,manchester united,2–0,3,1,Jonathan Moss
+2019-04-01,arsenal,newcastle united,2–0,3,1,Anthony Taylor
+2019-04-07,everton,arsenal,1–0,0,0,Kevin Friend
+2019-04-15,watford,arsenal,0–1,3,0,Craig Pawson
+2019-04-21,arsenal,crystal palace,2–3,0,1,Jonathan Moss
+2019-04-24,wolverhampton wanderers,arsenal,3–1,0,0,Stuart Attwell
+2019-04-28,leicester city,arsenal,3–0,0,0,Michael Oliver
+2019-05-05,arsenal,brighton hove albion,1–1,1,1,Anthony Taylor
+2019-05-12,burnley,arsenal,1–3,3,0,Mike Dean
+2019-08-11,newcastle united,arsenal,0–1,3,0,Martin Atkinson
+2019-08-17,arsenal,burnley,2–1,3,1,Mike Dean
+2019-08-24,liverpool,arsenal,3–1,0,0,Anthony Taylor
+2019-09-01,arsenal,tottenham hotspur,2–2,1,1,Martin Atkinson
+2019-09-15,watford,arsenal,2–2,1,0,Anthony Taylor
+2019-09-22,arsenal,aston villa,3–2,3,1,Jonathan Moss
+2019-09-30,manchester united,arsenal,1–1,1,0,Kevin Friend
+2019-10-06,arsenal,bournemouth,1–0,3,1,Martin Atkinson
+2019-10-21,sheffield united,arsenal,1–0,0,0,Mike Dean
+2019-10-27,arsenal,crystal palace,2–2,1,1,Martin Atkinson
+2019-11-02,arsenal,wolverhampton wanderers,1–1,1,1,Michael Oliver
+2019-11-09,leicester city,arsenal,2–0,0,0,Chris Kavanagh
+2019-11-23,arsenal,southampton,2–2,1,1,Stuart Attwell
+2019-12-01,norwich city,arsenal,2–2,1,0,Paul Tierney
+2019-12-05,arsenal,brighton hove albion,1–2,0,1,Graham Scott
+2019-12-09,west ham united,arsenal,1–3,3,0,Mike Dean
+2019-12-15,arsenal,manchester city,0–3,0,1,Paul Tierney
+2019-12-21,everton,arsenal,0–0,1,0,Kevin Friend
+2019-12-26,bournemouth,arsenal,1–1,1,0,Stuart Attwell
+2019-12-29,arsenal,chelsea,1–2,0,1,Craig Pawson
+2020-01-01,arsenal,manchester united,2–0,3,1,Chris Kavanagh
+2020-01-11,crystal palace,arsenal,1–1,1,0,Paul Tierney
+2020-01-18,arsenal,sheffield united,1–1,1,1,Mike Dean
+2020-01-21,chelsea,arsenal,2–2,1,0,Stuart Attwell
+2020-02-02,burnley,arsenal,0–0,1,0,Chris Kavanagh
+2020-02-16,arsenal,newcastle united,4–0,3,1,Lee Mason
+2020-02-23,arsenal,everton,3–2,3,1,Stuart Attwell
+2020-03-07,arsenal,west ham united,1–0,3,1,Martin Atkinson
+2020-06-17,manchester city,arsenal,3–0,0,0,Anthony Taylor
+2020-06-20,brighton hove albion,arsenal,2–1,0,0,Martin Atkinson
+2020-06-25,southampton,arsenal,0–2,3,0,Graham Scott
+2020-07-01,arsenal,norwich city,4–0,3,1,Peter Bankes
+2020-07-04,wolverhampton wanderers,arsenal,0–2,3,0,Michael Oliver
+2020-07-07,arsenal,leicester city,1–1,1,1,Chris Kavanagh
+2020-07-12,tottenham hotspur,arsenal,2–1,0,0,Michael Oliver
+2020-07-15,arsenal,liverpool,2–1,3,1,Paul Tierney
+2020-07-21,aston villa,arsenal,1–0,0,0,Chris Kavanagh
+2020-07-26,arsenal,watford,3–2,3,1,Mike Dean
+2020-09-12,fulham,arsenal,0–3,3,0,Chris Kavanagh
+2020-09-19,arsenal,west ham united,2–1,3,1,Michael Oliver
+2020-09-28,liverpool,arsenal,3–1,0,0,Craig Pawson
+2020-10-04,arsenal,sheffield united,2–1,3,1,Lee Mason
+2020-10-17,manchester city,arsenal,1–0,0,0,Chris Kavanagh
+2020-10-25,arsenal,leicester city,0–1,0,1,Craig Pawson
+2020-11-01,manchester united,arsenal,0–1,3,0,Mike Dean
+2020-11-08,arsenal,aston villa,0–3,0,1,Martin Atkinson
+2020-11-22,leeds united,arsenal,0–0,1,0,Anthony Taylor
+2020-11-29,arsenal,wolverhampton wanderers,1–2,0,1,Michael Oliver
+2020-12-06,tottenham hotspur,arsenal,2–0,0,0,Martin Atkinson
+2020-12-13,arsenal,burnley,0–1,0,1,Graham Scott
+2020-12-16,arsenal,southampton,1–1,1,1,Paul Tierney
+2020-12-19,everton,arsenal,2–1,0,0,Andre Marriner
+2020-12-26,arsenal,chelsea,3–1,3,1,Michael Oliver
+2020-12-29,brighton hove albion,arsenal,0–1,3,0,Martin Atkinson
+2021-01-02,west bromwich albion,arsenal,0–4,3,0,Martin Atkinson
+2021-01-14,arsenal,crystal palace,0–0,1,1,Andre Marriner
+2021-01-18,arsenal,newcastle united,3–0,3,1,David Coote
+2021-01-26,southampton,arsenal,1–3,3,0,Kevin Friend
+2021-01-30,arsenal,manchester united,0–0,1,1,Michael Oliver
+2021-02-02,wolverhampton wanderers,arsenal,2–1,0,0,Craig Pawson
+2021-02-06,aston villa,arsenal,1–0,0,0,Chris Kavanagh
+2021-02-14,arsenal,leeds united,4–2,3,1,Stuart Attwell
+2021-02-21,arsenal,manchester city,0–1,0,1,Jonathan Moss
+2021-02-28,leicester city,arsenal,1–3,3,0,Paul Tierney
+2021-03-06,burnley,arsenal,1–1,1,0,Andre Marriner
+2021-03-14,arsenal,tottenham hotspur,2–1,3,1,Michael Oliver
+2021-03-21,west ham united,arsenal,3–3,1,0,Jonathan Moss
+2021-04-03,arsenal,liverpool,0–3,0,1,Stuart Attwell
+2021-04-11,sheffield united,arsenal,0–3,3,0,Peter Bankes
+2021-04-18,arsenal,fulham,1–1,1,1,Craig Pawson
+2021-04-23,arsenal,everton,0–1,0,1,Jonathan Moss
+2021-05-02,newcastle united,arsenal,0–2,3,0,Mike Dean
+2021-05-09,arsenal,west bromwich albion,3–1,3,1,Peter Bankes
+2021-05-12,chelsea,arsenal,0–1,3,0,Andre Marriner
+2021-05-19,crystal palace,arsenal,1–3,3,0,Anthony Taylor
+2021-05-23,arsenal,brighton hove albion,2–0,3,1,Jonathan Moss
